@@ -1,0 +1,27 @@
+.account-container{
+    background-color: #eef;
+    height: calc(100vh - 40px);
+    margin-top: 40px;
+}
+
+.interests button {
+    display: inline-block;
+    background-color: #7c7cd1;
+    color: #fff;
+}
+
+.interests button:hover {
+    background-color: #4f4fb3;
+    color: #fff;
+}
+  
+.btn-edit {
+    color: #5353aa;
+    font-weight: bold;
+    border: 1px solid #5353aa;
+}
+  
+.btn-edit:hover {
+    color: white;
+    background-color: #5353aa;
+}
